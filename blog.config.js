@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'STEVE',
+  title: 'MY BLOG',
   author: 'SHOW',
   email: 'sfl05@163.com',
-  link: 'https://show.vercel.app',
+  link: 'https://blog.861204.xyz',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -14,7 +14,7 @@ const BLOG = {
   postsPerPage: 10,
   sortByDate: false,
   showAbout: false,
-  showArchive: true,
+  showArchive: false,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/snipersteve',
